@@ -20,14 +20,14 @@
 - 🔭 一个蒻蒻
 - 🤔 掌握编程语言：C#、C++、JAVA、Python
 - ⚡ 掌握框架：Vue、SpringBoot。
-- 欢迎光临我的Github 🍧
+- 🍧欢迎光临我的Github 
 
 
 ### 社交主页
 
 
 
-- <a href="https://www.blog.misdazzling.cn"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计30万+
+- <a href="https://www.blog.misdazzling.cn"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico">个人网站</a>
 - 🔴 [B站](https://space.bilibili.com/475716635?spm_id_from=333.999.0.0)
 - 🟣 [为我发电](https://afdian.net/a/dazzling)
 - 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_7bbcce86ad5a)
