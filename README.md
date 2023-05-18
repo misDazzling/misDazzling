@@ -15,7 +15,7 @@
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
-- :raised_hands:大家好，我是Dazzling，来自山东
+- :raised_hands:大家好，我是MisDazzling(中文含义是 不炫目)，来自山东。
 - :dart:目前是一名计算机在读研究生
 - 🔭 一个蒻蒻
 - 🤔 掌握编程语言：C#、C++、JAVA、Python
